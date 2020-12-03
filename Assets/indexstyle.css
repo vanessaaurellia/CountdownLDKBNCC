@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{
+    font-family: Montserrat;
+    background-image: url("Background.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30%;
+}
